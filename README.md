@@ -45,7 +45,7 @@
 | **NexusCart** | Personal project | [Live Demo](https://nexuscart-fc3a2.web.app/) / [Code](https://github.com/MahadevaprasadS-0720/NexusCart) |
 | **Smart-Resume-Analyzer** | An intelligent ATS resume analyzer & scoring engine featuring client-side PDF parsing, keyword matching, and Firebase integration. | [Live Demo](https://smart-resume-analyzer-1c36f.web.app/) / [Code](https://github.com/MahadevaprasadS-0720/Smart-Resume-Analyzer) |
 | **TODO-List-App** | Personal project | [Live Demo](https://todo-list-app-6eaec.web.app/) / [Code](https://github.com/MahadevaprasadS-0720/TODO-List-App) |
-| **ultimate-birthday-surprise-hub** | Birthday Gift  | [Live Demo](https://happy-birthday-crush-impress-v2.vercel.app) / [Code](https://github.com/MahadevaprasadS-0720/ultimate-birthday-surprise-hub) |
+| **ultimate-birthday-surprise-hub** | Birthday Gift  | [Live Demo](https://happy-birthday-crush-impress-v2.vercel.app) / [Code](https://github.com/MahadevaprasadS-0720/ultimate-birthday-surprise-hub) |
 <!-- PROJECTS:END -->
 
 ---
