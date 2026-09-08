@@ -45,7 +45,7 @@
 | **NexusCart** | Personal project | [Live Demo](https://nexuscart-fc3a2.web.app/) / [Code](https://github.com/MahadevaprasadS-0720/NexusCart) |
 | **Smart-Resume-Analyzer** | An intelligent ATS resume analyzer & scoring engine featuring client-side PDF parsing, keyword matching, and Firebase integration. | [Live Demo](https://smart-resume-analyzer-1c36f.web.app/) / [Code](https://github.com/MahadevaprasadS-0720/Smart-Resume-Analyzer) |
 | **TODO-List-App** | Personal project | [Live Demo](https://todo-list-app-6eaec.web.app/) / [Code](https://github.com/MahadevaprasadS-0720/TODO-List-App) |
-| **ultimate-birthday-surprise-hub** | Birthday Gift | [Live Demo](https://happy-birthday-crush-impress-v2.vercel.app) / [Code](https://github.com/MahadevaprasadS-0720/ultimate-birthday-surprise-hub) |
+| **ultimate-birthday-surprise-hub** | Birthday Gift  | [Live Demo](https://happy-birthday-crush-impress-v2.vercel.app) / [Code](https://github.com/MahadevaprasadS-0720/ultimate-birthday-surprise-hub) |
 <!-- PROJECTS:END -->
 
 ---
@@ -56,10 +56,14 @@
 
 <img src="https://streak-stats.demolab.com/?user=MahadevaprasadS-0720&theme=radical&hide_border=true&stroke=2563EB" alt="GitHub Streak" />
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahadevaprasadS-0720&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built & Maintained by <b>Mahadeva Prasad S</b></sub>
+  <sub>Built & Maintained by <b>Mahadeva Prasad S</b></sub>
 </div>
