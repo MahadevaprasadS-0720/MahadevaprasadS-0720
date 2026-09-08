@@ -1,16 +1,65 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MahadevaprasadS-0720/MahadevaprasadS-0720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&height=70&lines=HI%2C+I'M+MAHADEVA+PRASAD+S;FULL-STACK+WEB+DEVELOPER;BUILDING+HIGH-PERFORMANCE+APPS" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+*Crafting Scalable, Modern & High-Performance Web Applications*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Live Projects](https://img.shields.io/badge/Live_Projects-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://smart-resume-analyzer-1c36f.web.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahadevaprasadS-0720)
+
+</div>
+
+---
+
+### 💫 About Me
+
+* 🚀 **Full-Stack Enthusiast:** Focused on building responsive, performant, and production-ready applications.
+* 🛠️ **Current Focus:** Client-side document processing, deterministic ATS scoring engines, and cloud persistence.
+* ⚡ **Core Strengths:** React.js, Tailwind CSS, Modern State Management, Firebase Backend Architecture.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+<!-- PROJECTS:START -->
+| Project Name | Description | Tech / Link |
+| :--- | :--- | :--- |
+| **Callix-App** | Personal project | [Repository](https://github.com/MahadevaprasadS-0720/Callix-App) |
+| **NexusCart** | Personal project | [Live Demo](https://nexuscart-fc3a2.web.app/) / [Code](https://github.com/MahadevaprasadS-0720/NexusCart) |
+| **Smart-Resume-Analyzer** | An intelligent ATS resume analyzer & scoring engine featuring client-side PDF parsing, keyword matching, and Firebase integration. | [Live Demo](https://smart-resume-analyzer-1c36f.web.app/) / [Code](https://github.com/MahadevaprasadS-0720/Smart-Resume-Analyzer) |
+| **TODO-List-App** | Personal project | [Live Demo](https://todo-list-app-6eaec.web.app/) / [Code](https://github.com/MahadevaprasadS-0720/TODO-List-App) |
+| **ultimate-birthday-surprise-hub** | Birthday Gift | [Live Demo](https://happy-birthday-crush-impress-v2.vercel.app) / [Code](https://github.com/MahadevaprasadS-0720/ultimate-birthday-surprise-hub) |
+<!-- PROJECTS:END -->
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=MahadevaprasadS-0720&theme=radical&hide_border=true&stroke=2563EB" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built & Maintained by <b>Mahadeva Prasad S</b></sub>
+</div>
