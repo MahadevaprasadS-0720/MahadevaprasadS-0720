@@ -41,8 +41,8 @@
 <!-- PROJECTS:START -->
 | Project Name | Description | Tech / Link |
 | :--- | :--- | :--- |
-| **Smart-Resume-Analyzer** | An intelligent ATS resume analyzer & scoring engine featuring client-side PDF parsing, keyword matching, and Firebase integration. | [Live Demo](https://smart-resume-analyzer-1c36f.web.app/) / [Code](https://github.com/MahadevaprasadS-0720/Smart-Resume-Analyzer) |
 | **Callix-App** | Callix - Enterprise Real-Time AI Voice Security & Scam Detection | [Live Demo](https://callix-app-9f1db.web.app/) / [Code](https://github.com/MahadevaprasadS-0720/Callix-App) |
+| **Smart-Resume-Analyzer** | An intelligent ATS resume analyzer & scoring engine featuring client-side PDF parsing, keyword matching, and Firebase integration. | [Live Demo](https://smart-resume-analyzer-1c36f.web.app/) / [Code](https://github.com/MahadevaprasadS-0720/Smart-Resume-Analyzer) |
 | **ultimate-birthday-surprise-hub** | Birthday Gift  | [Live Demo](https://happy-birthday-crush-impress-v2.vercel.app) / [Code](https://github.com/MahadevaprasadS-0720/ultimate-birthday-surprise-hub) |
 | **Extreme_car_game-** | Personal project | [Live Demo](https://extremecargame.vercel.app/) / [Code](https://github.com/MahadevaprasadS-0720/Extreme_car_game-) |
 | **NexusCart** | Personal project | [Live Demo](https://nexuscart-fc3a2.web.app/) / [Code](https://github.com/MahadevaprasadS-0720/NexusCart) |
